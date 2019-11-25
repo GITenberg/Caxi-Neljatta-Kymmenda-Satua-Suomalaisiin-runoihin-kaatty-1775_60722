@@ -1,0 +1,28 @@
+_repo: Caxi-Neljatta-Kymmenda-Satua-Suomalaisiin-runoihin-kaatty-1775_60722
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Achrenius, Henrik
+    birthdate: 1730
+    deathdate: 1798
+    gutenberg_agent_id: '51102'
+    url: http://www.gutenberg.org/2009/agents/51102
+    wikipedia: https://fi.wikipedia.org/wiki/Henrik_Achrenius
+description: ''
+gutenberg_issued: '2019-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60722'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables, Finnish'
+- !lcsh 'Animals -- Poetry'
+- !lcc 'PH'
+- GITenberg
+title: 'Caxi Neljättä Kymmendä Satua
+
+  Suomalaisiin runoihin käätty 1775'
+url: http://www.gutenberg.org/ebooks/60722
