@@ -1,5 +1,8 @@
 _repo: Caxi-Neljatta-Kymmenda-Satua-Suomalaisiin-runoihin-kaatty-1775_60722
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Achrenius, Henrik
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51102
     wikipedia: https://fi.wikipedia.org/wiki/Henrik_Achrenius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60722#Caxi-Neljatta-Kymmenda-Satua-Suomalaisiin-runoihin-kaatty-1775
 gutenberg_issued: '2019-11-18'
 gutenberg_type: Text
 identifiers:
